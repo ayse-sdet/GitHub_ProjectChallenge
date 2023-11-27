@@ -1,0 +1,2 @@
+public class case06 {
+}
